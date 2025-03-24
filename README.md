@@ -1,4 +1,4 @@
-# Vidly Video Store Management App
+# Vidly
 
 The Vidly Video Store Management App is designed to assist employees working behind the counter of a video store in managing their inventory, customers, rentals, and more.
 
