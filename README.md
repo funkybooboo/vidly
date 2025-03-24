@@ -75,3 +75,7 @@ To access these routes, you need to obtain a JWT token by registering as a user 
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests to help improve this project.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
